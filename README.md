@@ -41,7 +41,7 @@ Check if the bot is alive: This feature responds with a message confirming that 
 
 You can deploy this bot on Heroku with the following button:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/PRADHAN474/FUCKINGPYRO)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)(https://dashboard.heroku.com/new?template=https://github.com/Ranavanshi/Userbotbanall)
 
 ## Usage
 
